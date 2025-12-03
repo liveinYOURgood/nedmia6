@@ -1,0 +1,985 @@
+/* for mobile phone view below */
+
+
+
+
+
+
+
+.masttitle {
+  display: block;
+  background-color: black;
+  text-align: center;
+  font-size: 34px;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+#main {
+
+  flex-direction: row;
+  background-color: yellow;
+  border: 5px red solid;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 55px;
+  line-height: 65px;
+  
+
+
+}
+
+.bot {
+
+  color: red;
+}
+
+.bot:hover {
+
+  color: red;
+}
+
+.span {
+  color: ORANGE;
+  font-weight: bolder;
+}
+
+.span2 {
+  color: YELLOW;
+  font-weight: bolder;
+}
+
+.span3 {
+
+  color: red;
+  font-weight: bolder;
+
+}
+
+.heroindex2 { 
+
+  background-color: #074f57;
+  background-image: url("../images/mtn2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+
+
+}
+
+.herosub {
+
+  color: white;
+  font-size: 45px;
+  font-weight: bold;
+  padding-bottom: 35px;
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, red is the stroke or outline color */
+
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 1px red;
+
+}
+
+.herohead {
+
+  color: yellow;
+  font-size: 80px;
+  font-weight: bold;
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, red is the stroke or outline color */
+
+  -webkit-text-fill-color: yellow;
+  -webkit-text-stroke: 4px red;
+
+
+  
+}
+
+.mainheader {
+
+  color: yellow;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: left;
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, red is the stroke or outline color */
+
+  -webkit-text-fill-color: yellow;
+  -webkit-text-stroke: 4px red;
+
+  margin-top: 60px;
+  margin-bottom: 30px;
+
+
+  margin-left: 20px;
+  margin-right: 20px;
+
+  background-color: black;
+  padding-left: 30px;
+  border: 3px solid black;
+
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.mainheaderTitle {
+
+  color: yellow;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: left;
+
+  /* webkit below here makes an outline for the text. Yellow is the fill, red is the stroke or outline color */
+
+  -webkit-text-fill-color: yellow;
+  -webkit-text-stroke: 4px red;
+
+  margin-top: 80px;
+  margin-bottom: 30px;
+
+
+  margin-left: 20px;
+  margin-right: 20px;
+
+  padding-left: 30px;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.subtitleheader {
+
+  font-weight: bold;
+  color: black;
+
+  font-size: 60px;
+
+  margin-left: 55px;
+  text-decoration: underline;
+
+
+
+
+}
+
+
+.threeHeader {
+
+  font-size: 60px;
+  line-height: 65px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: red;
+  background-color: yellow;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+
+  margin-top: 55px;
+
+}
+
+.nslogohero{
+
+  height: 45%;
+  width: 45%;
+  float:right;
+
+  margin-left: 40px;
+
+}
+
+
+
+
+.boldtype {
+
+  color:red;
+  font-weight: bold;
+}
+
+.boldtype3 {
+
+  color:blue;
+  font-weight: bold;
+}
+
+.boldtype2 {
+
+  color:black;
+  font-weight: bold;
+}
+
+
+
+
+
+
+.billypicture{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:75%;
+  width:75%;
+
+}
+
+.TiffanyPictureL{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 45px;
+  height:80%;
+  width:80%;
+
+
+
+}
+
+.TiffanyPictureR{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 45px;
+  height:80%;
+  width:80%;
+
+
+
+}
+
+.tiffanyextra{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 45px;
+  height:85%;
+  width:85%;
+
+
+
+}
+
+.bottlepicture{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 45px;
+  height:100%;
+  width:100%;
+
+  clear: left;
+
+
+}
+
+.showcaseitem{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:45%;
+  width:45%;
+
+
+
+}
+
+hr {
+
+
+  border: 5px red solid;
+
+  margin-top: 60px;
+  margin-bottom: 30px;
+
+  
+}
+
+
+hr2 {
+
+
+  border: 5px aqua solid;
+
+  margin-bottom: 20px;
+
+  
+}
+
+
+
+
+
+.logo{
+
+  padding-left:30px;
+  padding-top: 25px;
+  padding-right: 30px;
+  height: 120px;
+  display: block;
+  background-color: black;
+  float:right;
+}
+
+
+
+
+.bodytext{
+
+  font-size: 46px;
+  line-height: 57px;
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  text-align: left;
+
+
+}
+
+.bodytextDESK{
+
+  font-size: 46px;
+  line-height: 57px;
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  text-align: left;
+
+
+}
+
+
+
+
+
+
+.footer-website {
+
+  color: green;
+  text-decoration: underline;
+  font-family: "Ubuntu";
+
+  }
+
+
+#testimonials2{
+
+  background-color: black;
+}
+
+
+.main-texttop{
+  font-family: 'Alfa Slab One', cursive;
+
+
+
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+
+p{
+color: #8f8f8f;
+
+
+}
+
+
+/* Features Section */
+
+.bold-typehead{
+
+  font-family: 'Alfa Slab One', cursive;
+
+}
+
+#features {
+padding: 5% 4%;
+background-color: white;
+position: relative;
+
+}
+
+.feature-box {
+text-align: center;
+padding:5%;
+
+}
+
+/* Testimonials Section */
+
+.namelocation{
+
+  font-size: 45px ;
+  width:100%;
+  text-align: left;
+}
+
+
+#testimonials {
+text-align: center;
+padding-bottom: 20px;
+background-color: black;
+color: white;
+
+}
+
+.testimonial-text{
+
+font-family: "Ubuntu";
+color: #FFB612;
+text-align: center;
+font-size: 45px ;
+
+
+}
+
+.pro2 {
+
+  color: green;
+  
+}
+
+.pro3 {
+
+  color: red;
+  
+}
+
+.testimonial-image {
+  width: 50%;
+  margin: 20px;
+  border-radius: 100%;
+
+}
+
+.testimonial-image4 {
+  width: 100%;
+  margin: 20px;
+
+}
+
+
+
+.meetplayers {
+
+  padding-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 205px;
+  color: yellow;
+  font-family: 'Road Rage', cursive;
+  text-align: center;
+
+}
+
+.meetplayers2 {
+
+  padding-top: 25px;
+  font-size: 145px;
+  color: white;
+  font-family: 'Road Rage', cursive;
+  text-align: center;
+  line-height: 155px;
+
+}
+
+
+/* CTA or Call to Action Section */
+
+
+
+
+/* BOTTOM CONTAINER AREA */
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 10px;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copywrite{
+
+  color:white;
+  padding-bottom: 40px;
+  font-size: 44px;
+  line-height: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+
+  padding-left: 40px;
+  padding-right: 40px;
+  
+}
+
+
+.copywriteblock {
+
+  background-color: white;
+  color: black;
+
+  margin-top: 55px;
+  margin-bottom: 40px;
+  text-align: center;
+
+  border: 3px solid red;
+
+  padding: 40px 40px 40px 40px;
+  background-color: lightgrey;
+
+
+}
+
+.footerlogo {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+
+}
+
+
+
+
+/* Footer Section */
+
+.footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:white;
+    background-color: black;
+    
+    }
+  
+    .steps{
+  
+      font-size: 33px;
+      color: red;
+      text-decoration: underline;
+    }
+  
+    .span {
+      color: yellow;
+      font-weight: bolder;
+    }
+  
+  
+  
+
+  .span2 {
+    color: ORANGE;
+    font-weight: bolder;
+  }
+  
+  .span3 {
+
+    color: red;
+    font-weight: bolder;
+  
+  }
+
+  .tiffanyemail{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:100%;
+    width:100%;
+
+    border: 3px red solid;
+  
+  
+  
+  }
+
+  .emaillink {
+
+    color: yellow;
+    text-decoration: underline;
+  }
+
+
+
+
+
+/* for tablet view below *//* for tablet view below *//* for tablet view below */
+
+
+
+
+@media only screen and (min-width:868px) {
+
+  .emaillink {
+
+    color: yellow;
+    text-decoration: underline;
+  }
+
+
+  #testimonials {
+
+    display: none;
+
+  }
+
+  .bottlepicture{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:50%;
+    width:50%;
+  
+    clear: left;
+  
+  
+  }
+
+  .billypicture{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:35%;
+    width:35%;
+  
+  }
+
+  .tiffanyextra{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 50px;
+
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:50%;
+    width:50%;
+  
+  
+  
+  }
+
+  .tiffanyemail{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:100%;
+    width:100%;
+
+    margin-bottom: 40px;
+    
+  
+  
+  
+  }
+
+  .TiffanyPictureL{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:40%;
+    width:40%;
+
+    float: left;
+
+    gap: 10px;
+
+  
+  
+  
+  }
+  
+  .TiffanyPictureR{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:40%;
+    width:40%;
+
+    float: right;
+
+    gap: 10px;
+  
+  
+  
+  }
+
+  .bodytext{
+
+    font-size: 46px;
+    line-height: 57px;
+
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+    text-align: center;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    background-color: lightgrey;
+
+    padding-left: 40px;
+    padding-right: 40px;
+  
+  
+  }
+
+  .bodytextDESK{
+
+    font-size: 46px;
+    line-height: 57px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+    text-align: center;
+  
+  
+  }
+
+  .pro2 {
+
+    color: green;
+    
+  }
+
+  .pro3 {
+
+    color: red;
+    
+  }
+
+  
+
+}
+
+/* for desktop view below */ /* for desktop view below *//* for desktop view below */
+
+
+
+
+@media only screen and (min-width:1000px) {
+
+  #testimonials {
+
+    display: none;
+
+  }
+
+  .bottlepicture{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:50%;
+    width:50%;
+  
+    clear: left;
+  
+  
+  }
+
+  .tiffanyextra{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 50px;
+
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:50%;
+    width:50%;
+  
+  
+  
+  }
+
+  .tiffanyemail{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:100%;
+    width:100%;
+
+    border: 3px red solid;
+  
+  
+  
+  }
+
+  .TiffanyPictureL{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:40%;
+    width:40%;
+
+    float: left;
+
+    gap: 10px;
+
+  
+  
+  
+  }
+  
+  .TiffanyPictureR{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 45px;
+    height:40%;
+    width:40%;
+
+    float: right;
+
+    gap: 10px;
+  
+  
+  
+  }
+
+  .bodytext{
+
+    font-size: 26px;
+    line-height: 37px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+    text-align: center;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    background-color: lightgrey;
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+  
+  
+  }
+
+  .pro2 {
+
+    color: green;
+
+  }
+  .pro3 {
+
+    color: red;
+    
+  }
+
+  .bodytextDESK{
+
+    font-size: 46px;
+    line-height: 57px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+    text-align: CENTER;
+  
+  
+  }
+
+  .emaillink {
+
+    color: yellow;
+    text-decoration: underline;
+  }
+
+
+
+
+}
+
+
+
+
+
